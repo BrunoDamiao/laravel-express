@@ -8,7 +8,7 @@
 	2. Entrega do Projeto - __Estrutura e Template__
 
 	3. Observaçõe:
-		> faremos um Blog simples, todavia, que utilizará diversos recursos do Laravel para que possamos praticar e fixar os conhecimentos aprendidos até o momento.
+		> Faremos um Blog simples, todavia, que utilizará diversos recursos do Laravel para que possamos praticar e fixar os conhecimentos aprendidos até o momento.
 
 		> Nessa primeira fase, você deverá criar a estrutura de seu projeto, bem como a página inicial de seu Blog.
 
